@@ -612,3 +612,30 @@ nav .menu-btn,
     height: 400px;
   }
 }
+.header-heading {
+  max-width: 800px;
+  text-align: center;
+  padding: 10%;
+  margin: 0 30%;
+}
+
+.header-heading h2 {
+  font-size: 2rem;
+  font-weight: 900;
+  letter-spacing: 2px;
+  display: inline-block;
+}
+
+.header-heading h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.header-heading h1 span {
+  color: #ffcc00;
+}
+p {
+  color: #fff;
+  font-size: 20px;
+}
