@@ -9,7 +9,7 @@ function Header() {
           <span>FITNESS</span>WITH US
         </h1>
         <p className="details">
-          Build your body and fitness with Professional touch
+          <b>Build your body and fitness with Professional touch</b>
         </p>
         <div className="header-btns">
           <a href="#" className="header-btn">
